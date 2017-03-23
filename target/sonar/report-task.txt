@@ -1,0 +1,5 @@
+projectKey=com.example.demo:SonarQubeMaven
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/com.example.demo:SonarQubeMaven
+ceTaskId=AVr7arkIZcxZ0Y7ix8Di
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVr7arkIZcxZ0Y7ix8Di
